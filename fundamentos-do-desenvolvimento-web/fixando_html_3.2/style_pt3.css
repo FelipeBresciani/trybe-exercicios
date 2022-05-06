@@ -1,0 +1,42 @@
+h1 {
+    font-family: fantasy;
+    font-size: 65px;
+    color: orange;
+}
+body{
+    background-color: rgba(521, 400, 200, 300);
+    font-size: 16px;
+}
+
+#lista { 
+    color: black;
+    background-color: wheat;
+    text-decoration: rgb(0, 114, 134);
+    text-decoration: underline;
+    font-style: italic;
+    text-align: center;
+    
+}
+.cores {
+    background-color: wheat;
+}
+#para {
+    font-weight: 600;
+    font-size: 3ex;
+}
+#lista1 {
+    background-color: red;
+
+}
+#lista2 {
+    background-color: black;
+    color: white;
+
+}
+#lista3 {
+    background-color: purple;
+
+}
+#lista4 {
+    background-color: blue;
+}
