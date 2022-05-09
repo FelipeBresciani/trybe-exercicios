@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&family=Playfair+Display:ital@1&family=Shadows+Into+Light&family=Source+Serif+Pro:ital,wght@1,200&display=swap');
+
+body {
+    background-color: gray;
+    color: white;
+}
+ 
+div {
+    text-align: center;
+}
+
+li:hover {
+    color: blueviolet;
+    background-color: black;
+}
+
+li:active {
+    font-family: 'Playfair Display', serif;
+}
+
+.lista {
+    list-style: none;
+}
