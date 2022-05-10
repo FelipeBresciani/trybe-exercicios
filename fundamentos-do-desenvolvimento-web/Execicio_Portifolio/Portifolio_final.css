@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&family=Playfair+Display:ital@1&family=Shadows+Into+Light&family=Source+Serif+Pro:ital,wght@1,200&display=swap');
+body {
+    background-color: #353535;
+    font-family: 'Montserrat', sans-serif;
+
+}
+h2, h1 {
+    color: #FFC300;
+    font-family: 'Source Serif Pro', serif;
+}
+.nome {
+    font-family: 'Playfair Display', serif;
+     font-size: x-large;
+     text-align: center;
+     
+
+}
+
+.branco {
+    color: white;
+}
+.sem-linha {
+    text-decoration: none;
+    color: yellow;
+}
+.eu {
+   padding: 5px;
+   background-color: #FFC300;
+   width: 295px;
+   float: left;
+}
+h1 {
+    font-size: 70px;
+    font-weight: 300;
+}
+.tamanho {
+    font-size: x-large;
+}
+#paragrafo {
+    text-shadow: none;
+    color: beige;
+    font-weight: 700;
+}
+.linha {
+    opacity: 0.1;
+    
+}
+.sobre-mim {
+
+  height: auto;
+  margin: auto;
+}
+.habilidades {
+    height: auto;
+    line-height: 30px;
+    
+}
+
+li {
+   list-style-type: none;
+}
+
+.ajuste {
+    text-align: center;
+}
+
+ul li:nth-child(odd) {
+  color: rgb(243, 0, 81);
+}
