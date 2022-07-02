@@ -11,5 +11,5 @@ const newEmployees = (callback) => {
   };
   return employees;
 };
-
+a
 console.log(newEmployees(employeeGenerator));
